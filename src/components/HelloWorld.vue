@@ -30,6 +30,8 @@
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
     </ul>
   </div>
+
+  <h1>test</h1>
 </template>
 
 <script>
